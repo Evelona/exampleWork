@@ -1,0 +1,990 @@
+{
+	area: {
+		category: 'area'
+		title: {
+			eng: 'Territory\nand governance'
+			rus: 'Территория\nи управление'
+			tat: 'Территория\nһәм идарәчелек'
+		}
+		information: [
+			{
+				anchor: {
+					eng: 'Governance system'
+					rus: 'Система управления'
+					tat: 'Идарә системасы'
+				}
+				text: {
+					eng: '''After the accession to the Russian State in 1552, the Khanate of Kazan became known as the Kazan Tsardom and was led
+					by the Russian sovereign, who received the title of Tsar
+					of Kazan. Kazan became one of the first cities where
+					a voivodeship governance system was established. It remained here until 1708, when, as a result of the Administrative Reform of Peter I, Kazan Governorate was formed along with the others.
+
+					In Moscow, the Prikaz of the Kazan Palace was created
+					for general control. It combined the functions of managing administrative, political, judicial, financial affairs, building fortresses, allocating land lots, collecting taxes (yasak), duties, and coachman service.
+
+					At the head of the local government were the voivodes appointed by the tsar. Military and civilian control was concentrated in their hands. The voivodes also dealt with issues of urban and county population security, trade and construction, performed the functions of chiefs of the Streltsy garrisons, and distributed land lots. 
+
+					The dyaks (clerks) also dealt with the governance
+					of the Kazan Voivodeship. Their areas of activity included paperwork and economic issues: collecting a quitrent, permits for mowing meadows, managing carpenters and blacksmiths.
+
+					Under the voivodes and dyaks there were paperwork institutions – izbas. The Dyak Izba was the center of paperwork. In addition to it, there were the Guard Izba, Customs Izba, Tatar Yard (near the Tatar Sloboda settlement), Powder Izba, and «Sovereign Granaries» (for storing bread and other products that were given to serving people as a natural part of the salary) in Kazan. The main work in these institutions was carried out by the podyachyes, subordinate to the dyaks.
+
+					To control the local population, «Tatar heads» were chosen from Russian nobles and boyar children; they were engaged
+					in court cases, collecting tax – yasak. The local population also had the opportunity to participate in the administration: representatives of the local feudal stratum (Mirza) could take part in court hearings, as well as be appointed sotniks
+					and pyatidesyatniks (military ranks); elders were chosen
+					from the yasak population.
+
+					'''
+					rus: '''Казанское ханство после присоединения в 1552 году
+					к Российскому государству стало называться Казанским царством и возглавлялось российским государем, получившим титул Царя Казанского. Казань стала одним
+					из первых городов, где была установлена воеводская система управления. Здесь она сохранялась до 1708 года, когда
+					в результате административно-территориальной реформы Петра I в числе других была образована Казанская губерния.
+					
+					В Москве для общего контроля был создан Приказ Казанского дворца. Он объединил в себе функции
+					по руководству административно-политическими, судебными, финансовыми делами, строительством крепостей, распределением земельных наделов, сбору налогов (ясака), несению повинностей, ямской службе.
+					
+					Во главе местного управления стояли воеводы, назначаемые царем. В их руках было сосредоточено военное и гражданское управление. Также воеводы занимались вопросами безопасности городского и уездного населения, ведали торговлей и строительством, выполняли функции начальников стрелецких гарнизонов, распределяли земельные наделы.
+					
+					В управлении Казанским воеводством также участвовали дьяки. В их сферу деятельности входило делопроизводство
+					и хозяйственные вопросы: сбор оброка, разрешения на покос лугов, управление плотниками и кузнецами. 
+					
+					При воеводах и дьяках имелись делопроизводственные учреждения – избы. Центром делопроизводства была дьячья изба. Помимо нее в Казани имелись сторожевая изба, таможенная изба, татарский двор (рядом с Татарской слободой), «зелейная» (пороховая) изба и «государевы житницы» (для хранения хлеба и других продуктов, которыми платили натуральную часть жалования служилым людям). Основную работу в этих учреждениях выполняли подьячие, подчинявшиеся дьякам.
+					
+					Для управления местным населением назначались «татарские головы» из русских дворян и детей боярских, которые занимались судебными делами, сбором налога
+					– ясака. Местное население также имело возможность участвовать в управлении: представители местной феодальной прослойки (мурзы) могли принимать участие
+					в судебных заседаниях, а также назначались сотниками
+					и пятидесятниками; из ясачного населения выбирались старосты.
+					'''
+					tat: '''Казан ханлыгы 1552 елда Россия дәүләтенә кушылганнан соң Казан патшалыгы дип атала башлый һәм Казан Патшасы титулын алган рус идарәчесе тарафыннан идарә ителә. Казан, воеводалык идарә системасы кертелгән шәһәрләрнең беренчесе була. Әлеге система 1708 елга, Петр I административ-территориаль үзгәрешләре нәтиҗәсендә, башка өлкәләр белән беррәттән Казан губернасы оештырылганга кадәр саклана.
+
+					Гомуми күзәтүләрне тормышка ашыру максатыннан Мәскәүдә Казан сарае Приказы оештырыла.
+					Ул административ-сәяси, хөкем чыгару, финанс эшчәнлеге, ныгытмалар төзү, җир биләмәләрен бүлү, ясак җыю, йөкләмәләр үтәү, ямчыларга җитәкчелек итү кебек вазыйфаларны башкара.
+
+					Җирле идарә башында хәрби һәм гражданлык идарәсе эшләрен башкарган, патша тарафыннан билгеләнгән воеводалар тора. Алар шәһәр һәм өяз халкының куркынычсызлыгын тәэмин итү мәсьәләләре белән шөгыльләнәләр, сәүдә һәм төзелеш эшләренә җитәкчелек итәләр, укчылар гарнизоннары башлыклары вазыйфаларын башкаралар, җир биләмәләрен бүләләр.
+
+					Казан воеводалыгы белән идарә итүдә, шулай ук, дьяклар катнаша. Аларның эшчәнлеге рәсми эш кагәзьләре белән эшләү, имана салымын җыю, болыннар чабуга рөхсәт бирү, балтачыларга һәм тимерчеләргә җитәкчелек итү кебек хуҗалык мәсьәләләрен үз эченә ала.
+
+					Рәсми эш кәгазьләре белән эшләү оешмалары – ызбалар - воеводалар һәм дьяклар карамагында була. Аларның төп үзәге дьяк ызбасында урнаша. Казанда, шулай ук, сак ызбасы, чиктә тикшерү ызбасы, татар сарае (Татар бистәсе янында), «зелейный» (дары) ызбасы һәм «патша амбарлары» (йомышлы кешеләргә эш хакының бер өлешен түләү өчен кулланылган икмәк һәм башка азык-төлек саклау урыны) булуы билгеле. Әлеге оешмаларның төп эшчәнлеген дьякларга буйсынган подьячийлар тормышка ашыра.
+					Җирле халык белән идарә итү өчен рус дворяннары
+					һәм боярлар балалары арасыннан сайланган «татар башлары» билгеләнә. Алар хөкем чыгару, ясак җыю белән шөгыльләнәләр. Җирле феодал катлам вәкилләре (морзалар) хөкем чыгару утырышларында катнашу, йөзлекләр
+					һәм иллелекләр итеп билгеләнү мөмкинлегенә ия була. Ясаклы кешеләр арасыннан старосталар сайлана.
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Territorial division'
+					rus: 'Территориальное деление'
+					tat: 'Территориаль бүленеш'
+				}
+				text: {
+					eng: '''After the accession of Kazan to the Russian State, the entire territory of the Kazan region was divided into two uyezds (districts) – Kazan and Sviyazhsk, whose borders
+					were not clearly defined. The uyezds were independent
+					and directly subordinate to the Prikaz of the Kazan Palace.
+					In a number of documents, these lands are referred to as one district – Kazan Land.
+
+					Roads (darugi) (as it was in the Khanate of Kazan)
+					were the units of the administrative and territorial division
+					of the Kazan Voivodeship. The names of these roads
+					are recorded in scribes’ books from 1565-1568. There were five roads at that time:
+					* Alatskaya – in the northern direction from Kazan,
+					* Galitskaya – in the northwestern,
+					* Nogaiskaya – in the southwestern,
+					* Zyureiskaya – in the southern,
+					* Arskaya – in the eastern.
+
+					The entire territory of the Kazan Uyezd was divided according to belonging to one of these roads in order
+					to systematize the registration (counting and land surveying)
+					of all existing settlements, lands and wastelands. The division
+						of the Kazan region into roads remained until the Administrative Reform of 1708.
+
+					'''
+					rus: '''После присоединения Казани к Российскому государству, вся территория Казанского края была поделена на два уезда – Казанский и Свияжский, границы которых не были четко определены. Уезды были самостоятельны и подчинялись непосредственно Приказу Казанского дворца. В ряде документов эти земли упоминаются как один район
+					– Казанская земля.
+
+					Единицей административно-территориального деления Казанского воеводства сохранились дороги (даруги) (как было в Казанском ханстве). Названия этих дорог зафиксированы писцовыми книгами с 1565-1568 годов. Дорог было в тот период было пять: 
+					* Алатская — в северном направлении от Казани, 
+					* Галицкая — в северо-западном, 
+					* Ногайская — в юго-западном, 
+					* Зюрейская — в южном, 
+					* Арская — в восточном.
+
+					Вся территория Казанского уезда поделена
+					по принадлежности к какой-то из этих дорог с целью систематизации учетной статистики (подсчет и межевание земель) всех существующих поселений, угодий и пустошей. Деление Казанского края на дороги сохранялось вплоть
+					до административно-территориальной реформы 1708 года.
+					'''
+					tat: '''Россия дәүләтенә кушылганнан соң Казан төбәге территориясе чикләре төгәл билгеләнмәгән, турыдан-туры Казан сарае Приказына буйсынган ике мөстәкыйль өязгә бүленә: Казан, Зөя. Кайбер чыганакларда алар бер төбәк буларак (Казан җире) телгә алына.
+
+					Казан ханлыгы чорындагы даругаларга бүленеш Казан воеводалыгының административ-территориаль берәмлеге буларак саклана. Аларның атамаларын 1565-1568 елларга караган кулъязма китапларда очратырга мөмкин. Бу чорда барлыгы биш даруга булуы билгеле:
+					* Алат – Казаннан төньяк юнәлештә,
+					* Галица – төньяк-көнбатыш,
+					* Ногай – көньяк-көнбатыш,
+					* Җөри – көньяк,
+					* Арча – көнчыгыш.
+					
+					Сан алу статистикасын системалаштыру (исәпкә алу
+					һәм җирләрне межалау) максатыннан Казан өязе территориясендәге барлык торак пунктлар, биләмәләр
+					һәм буш җирләр географик урыннары буенча даругаларга беркетеләләр. Әлеге бүленеш император Петр I нең 1708 елгы административ-территориаль реформаларына кадәр саклана.
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Strongholds of the new Government'
+					rus: 'Опорные пункты новой власти'
+					tat: 'Яңа властьның таяну пунктлары'
+				}
+				text: {
+					eng: '''From the second half of the 16th century, large-scale work began in the Kazan Territory to create points necessary
+					for the spread and strengthening of central power, preservation and expansion of control over new territories. Kazan,
+					as the center of the voivodeship, was surrounded
+					by white-stone walls, new fortresses and cities were built.
+
+					In the second half of the 16th century, the following fortresses were built:
+					* Laishev (1557);
+					* Tetyushi (1558);
+					* Tsarevokokshaisk (1584);
+					* Urzhum (1584);
+					* Malmyzh (1584).
+
+					From the 70s of the 16th century, fortification lines began
+					to be created on the Kazan lands. These were the lines
+					of ramparts, ditches, forest serifs with a guard service. Initially, these fortifications – they also included cities, forts
+					and fortresses – served to protect against the raids of nomads from the south. Later they became strongholds for colonization in the Volga region.
+
+					The first fortification line began to be built from Temnikov to Alatyr and Tetyushi in 1578, and, in 1652-1656, the Zakamskaya Zasechnaya Cherta (fortification line) was created; it included towns-forts: Bely Yar, Eryklinsk (1652), Tiinsk (1652), Bilyarsk (1654), Zainsk (1656). In the 18th century, as the borders
+					of the Russian state expanded, fortification lines gradually lost their significance.
+					'''
+					rus: '''Со второй половины XVI в. в Казанском крае велась масштабная работа по созданию пунктов, необходимых 
+					для распространения и укрепления центральной власти, сохранения и распространения контроля над новыми территориями. Казань, как центр воеводства, была обнесена белокаменными стенами, строились новые крепости и города. 
+					
+					Во второй половине XVI в. были построены крепости:
+					* Лаишев (1557); 
+					* Тетюши (1558);
+					* Царевококшайск (1584); 
+					* Уржум (1584); 
+					* Малмыж (1584).
+
+					С 70-х гг. XVI в. на казанских землях стали создавать засечные черты. Они представляли собой укрепленные линии в виде валов, рвов, лесных засек со сторожевой службой. Первоначально эти укрепления — в них входили также города, остроги и крепости — служили для защиты от набегов кочевников с юга. В дальнейшем они стали опорными пунктами колонизации в Поволжье. 
+					
+					Первая засечная черта начала возводиться от Темникова
+					к Алатырю и Тетюшам в 1578 г., а в 1652–1656 гг. была создана Закамская засечная черта, включавшая городки-остроги: Белый Яр, Ерыклинск (1652), Тиинск (1652), Билярск (1654), Заинск (1656).  В XVIII в., по мере расширения границ Российского государства, засечные линии постепенно теряют свое значение.
+					'''
+					tat: '''XVI йөзнең икенче яртысыннан башлап Казан төбәгендә үзәк властьны урнаштыру һәм ныгыту, яңа территорияләр өстеннән контроль саклау, аларны киңәйтү өчен махсус пунктлар төзү эшләре башлана. Воеводалык үзәгенә әверелгән Казан шәһәре ак таштан салынган стеналар белән әйләндереп алына, яңа ныгытмалар һәм шәһәрләр барлыкка килә.
+
+					XVI йөзнең икенче яртысында биш ныгытма төзелә:
+					* Лаеш (1557);
+					* Тәтеш (1558);
+					* Царевококшайск (1584);
+					* Урҗым (1584);
+					* Малмыҗ (1584).
+
+					XVI йөзнең 70 нче елларында казан җирләрендә засека чикләре төзелә башлый. Алар туфрак өемнәре, чокырлар,
+					сак хезмәтләре урнашкан урман засекаларыннан гыйбарәт була. Башта көньяк чикләрне күчмә кабиләләр һөҗүменнән саклауга хезмәт иткән шәһәрләр, төрмәләр һәм ныгытмалар, соңрак, Идел буен колонияләштерүдә әһәмиятле роль уйнаган торак пунктларга әвереләләр.
+
+					Беренче засека чиге 1578 елда Темниковтан Алатырь
+					һәм Тәтешкә кадәр сузыла, ә 1652-1656 елларда Ак Яр (1652), Тиинск (1652), Биләр (1654), Зәй (1656) төрмә-шәһәрләрне
+					үз эченә алган Кама арты засека чикләре торгызыла. XVIII йөздә, Россия дәүләте чикләре киңәю нәтиҗәсендә засека линияләре үзләренең әһәмиятен югалталар.
+					'''
+				}
+			}
+		]
+		images: [
+			{
+				path: 'area-1.webp'
+				label: {
+					name: {
+						eng: 'Voivode'
+						rus: 'Воевода'
+						tat: 'Воевода'
+					}
+					text: {
+						eng: 'Drawing by O. Brandukov. 2006'
+						rus: 'Рисунок О.Ю. Брандукова. 2006'
+						tat: 'О.Ю. Брандуков рәсеме. 2006'
+					}
+				}
+			}
+			{
+				path: 'area-2.webp'
+				label: {
+					name: {
+						eng: 'Russian State'
+						rus: 'Российское государство'
+						tat: 'Россия дәүләте'
+					}
+					text: {
+						eng: 'in the middle and second half of the 16th century'
+						rus: 'в середине и второй половине XVI в.'
+						tat: 'XVI йөз уртасында һәм икенче яртысында'
+					}
+				}
+			}
+			{
+				path: 'area-3.webp'
+				label: {
+					name: {
+						eng: 'Zasechnye Cherty (Fortification Lines) of the Russian state'
+						rus: 'Засечные черты Русского государства'
+						tat: 'Рус дәүләтенең XVI-XVII йөзләрдәге засека линияләре'
+					}
+					text: {
+						eng: 'in the 16th-17th centuries'
+						rus: 'в XVI-XVII вв.'
+						tat: ''
+					}
+				}
+			}
+			{
+				path: 'area-4.webp'
+				label: {
+					name: {
+						eng: 'Emblem of the Kazan Tsardom'
+						rus: 'Эмблема Казанского царства '
+						tat: 'Казан патшалыгы эмблемасы'
+					}
+					text: {
+						eng: 'Great Tsar book (Tsar Titular Book) 1672'
+						rus: 'Большая государева книга (Царский титулярник) 1672'
+						tat: 'Зур патша китабы (Патша титулярнигы) 1672'
+					}
+				}
+			}
+			
+		]
+	}
+	population: {
+		category: 'population'
+		title: {
+			eng: 'Population'
+			rus: 'Население'
+			tat: 'Халкы'
+		}
+		information: [
+			{
+				anchor: {
+					eng: 'Serving people'
+					rus: 'Служилые люди'
+					tat: 'Йомышлы кешеләр'
+				}
+				text: {
+					eng: '''This category of the population, formed in the Russian state, was divided into several groups. In the Kazan Voivodeship, serving people «by fatherland» (by duty) and serving people
+					«by choice» were represented.
+
+					The number of serving people «by fatherland» included boyars, stolniks (special rank), boyar children, serving Tatars, Duma Dyaks, nobles. They were required to carry out administrative services, for which they received salaries
+					in money or land, titles and other rewards.
+					'''
+					rus: '''Эта категория населения, сформировавшаяся
+					в российском государстве, делится на несколько групп.
+					В Казанском воеводстве были представлены служилые люди 	по отечеству (по обязанности) и служилые люди по прибору (по выбору). 
+
+					В число служилых людей по отечеству входили бояре, стольники, дети боярские, служилые татары, думные дьяки, дворяне. Они были обязаны нести административную службу, за которую получали жалование деньгами или земельными наделами, титулы и другие вознаграждения. 
+					'''
+					tat: '''Россия дәүләтендә формалашкан әлеге халык катламы берничә төркемгә бүленә. Казан воеводалыгында
+					иле (вазыйфалары) һәм әсбабы (сайлау) буенча йомышлы кешеләр төркемнәре була. 
+					
+					Иле (вазыйфалары) буенча йомышлы кешеләр боярларны һәм аларның балаларын, йөзлекләрне, йомышлы татарларны, дума дьякларын, дворяннарны үз эченә
+					ала. Нигездә, хакимият вазыйфаларын башкаралар, хезмәтләре өчен акча яки җир биләмәләре белән хезмәт хакы түлиләр, титуллар һәм бүләкләр тапшыралар.
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Serving tatars'
+					rus: 'Служилые татары'
+					tat: 'Йомышлы татарлар'
+				}
+				text: {
+					eng: '''a special group of serving people, formed from the Tatar yasak population and representatives of the nobility. Among
+					the service Tatars of the Kazan region there
+					were representatives of different property status, including Mirzas and princes. After the conquest of Kazan, the serving Tatars were used as translators, scribes, in the diplomatic
+					and military service. They were also given privileges in trade and crafts. Serving Tatars entered the service of the tsarist government, receiving for this cash and food salaries, as well as land lots. The bulk of the serving Tatars were part of the local troops. In the event of a military threat, they had to march
+					in full combat readiness, accompanied by armed servants. Tatar cavalry in the 17th century took part in campaigns against
+					the Commonwealth and the Crimean Tatars.
+
+					Serving people «by choice» included Streltsy, Cossacks, gunners, zatinschiks (fortress gunners), pischalnik (gunners),
+					who after 1552 inhabited the military garrisons of Kazan
+					and the fortresses of the fortification lines. For the service they received cash and food salaries.
+					'''
+					rus: '''Особая группа служилых людей, формировавшаяся
+					из татарского ясачного населения и представителей знати. Среди служилых татар Казанского края были представители разного имущественного положения, в том числе мурзы
+					и князья. После завоевания Казани служилые татары использовались в качестве толмачей (переводчиков), писцов, на дипломатической и военной службе. Им также предоставлялись привилегии в торговле и ремесленном производстве. Служилые татары поступали на службу
+					к царской власти, получая за это денежное и продуктовое жалование, а также земельные наделы. Основная масса служилых татар входила в поместные войска. В случае военной опасности они должны были выступить в поход
+					в полной боевой готовности в сопровождении вооруженных слуг. Татарская конница в XVII в. принимала участие в походах против Речи Посполитой и крымских татар.
+
+					К служилым людям по прибору относились стрельцы, казаки, пушкари, затинщики, пищальники, которые после 1552 г. населяли военные гарнизоны Казани и крепостей засечных линий. За службу они получали жалованье в денежном или натуральном выражении.
+						'''
+					tat: '''Ясаклы халык һәм аксөякләр вәкилләре арасында формалашкан махсус йомышлы кешеләр төркеме. Казан төбәге йомышлы татарлары арасында төрле матди дәрәҗәгә ия катлам вәкилләре, морзалар һәм кенәзләр була. Казан яулап алынганнан соң йомышлы татарлар толмачлар (тәрҗемәчеләр), язучылар сыйфатында, дипломат һәм хәрби хезмәтләрдә кулланыла. Аларга сәүдә итүдә һәм һөнәрчелек белән шөгыльләнүдә өстенлекләр бирелә. Бер өлеше патша властенә хезмәткә керә, һәм акча, азык-төлек белән хезмәт хакы, җир биләмәләре алалар. Йомышлы татарларның зур өлеше сарай гаскәрләре составына хезмәт итә. Алар сугыш куркынычы очрагында кыска вакыт эчендә тулысынча коралланып, хезмәтчеләре белән кичекмәстән сәяхәткә чыгарга тиеш булалар. XVII йөзләрдә татар атлылары Речь Посполитаяга һәм кырым татарларына каршы сәяхәтләрдә катнаша. 
+
+					Әсбабы (сайлау) буенча йомышлы кешеләр рәтенә 1552 елдан соң засека линияләре Казан хәрби гарнизоннарына һәм ныгытмаларына күчеп килгән укчылар, казаклар, тупчылар, затинчылар, пищальчылар керә. Хезмәтләре өчен акча яки азык-төлек белән түләү алалар. 
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Merchants'
+					rus: 'Купцы'
+					tat: 'Сәүдәгәрләр'
+				}
+				text: {
+					eng: '''In the second half of the 16th-17th centuries Kazan retains its importance as a trade center of the Volga region. Until 1686, the Tatars were forbidden to engage in trade; after the ban
+					was lifted, Tatar merchants established trade relations with cities of Russia and the countries of the East. The main goods traded by both Tatar and Russian merchants, who moved
+					to the Kazan region, were meat, fish, leather, fur, honey, wax, craft products.
+					'''
+					rus: '''Во второй половине XVI-XVII вв. Казань сохраняет свое значение как торговый центр Поволжья. До 1686 года татарам было запрещено заниматься торговлей; после отмены запрета татарские купцы налаживают торговые связи с городами России и странами Востока. Основные товары, которыми торговали как татарские, так и переселившиеся в Казанский край русские торговцы, – мясо, рыба, кожи, меха, мед, воск, изделия ремесленного производства.
+					'''
+					tat: '''Казан шәһәре үзенең Идел буендагы сәүдә үзәге буларак әһәмиятен XVI-XVII йөзнең икенче яртысында да югалтмый. 1686 елга кадәр татарларга сәүдә белән шөгыльләнү тыела. Чикләүләр бетерелгәннән соң татар сәүдәгәрләре Россия шәһәрләре һәм Көнчыгыш илләре белән сәүдә бәйләнешләрен җайга салалар. Алар, Казан төбәгенә күчеп утырган рус сәүдәгәрләре кебек үк, ит, балык, тире, мех, бал, балавыз, кәсепчелек эшләнмәләре кебек әйберләр белән сату итәләр. 
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Craftsmen'
+					rus: 'Ремесленники'
+					tat: 'Һөнәрчеләр'
+				}
+				text: {
+					eng: '''The development of crafts in the Kazan Voivodeship 
+					was carried out at the expense of Kazan craft settlements 
+					and rural crafts. The craft slobodas (settlements) of Kazan at that time were inhabited by Russian migrant craftsmen 
+					– tanners, shoemakers, furriers, sheepskin makers, candle makers, tailors. Rural craft developed primarily in the Tatar villages, the population of which was engaged in sheepskin making, leatherwork and felting, woodworking, locksmith
+					and jewelry.	
+					'''
+					rus: '''Развитие ремесел в Казанском воеводстве осуществлялось за счет казанских ремесленных слобод
+					и сельского ремесла. Ремесленные слободы Казани в тот период были населены русскими мастерами-переселенцами – кожевенниками, сапожниками, скорняками, овчинниками, свешниками, портными. Сельское ремесло развивалось прежде всего в татарских деревнях, население которых занималось выделкой овчин, кожевенным и валяльным делом, деревообработкой, слесарным и ювелирным делом.'''
+					tat: '''Казан воеводалыгында һөнәрчелек Казандагы кәсепчеләр бистәләре һәм авыл осталары хисабына үсеш ала. Ул чорда шәһәрдәге һөнәрчеләр бистәләрендә башка җирләрдән күчеп килгән рус осталары яши: күнчеләр, итекчеләр, тиречеләр, шәмчеләр, тегүчеләр. Татар авылларында һөнәрчелек, беренче чиратта, тиречеләр, күнчеләр һәм киез басучылар, агач эшкәртүчеләр,
+					эш кораллары ясаучылар, зәркәнчеләр эшчәнлеге хисабына зур үсеш ала. 
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Peasants'
+					rus: 'Крестьяне'
+					tat: 'Крестьяннар'
+				}
+				text: {
+					eng: '''In the second half of the 16th-17th centuries, this group
+					of the population in the Kazan region was represented by yasak peasants and Russian perevedenetsy (migrants).
+					'''
+					rus: '''Во второй половине XVI-XVII вв. эта группа населения
+					в Казанском крае была представлена ясачными крестьянами и русскими переведенцами.'''
+					tat: 'XVI-XVII йөзләрнең икенче яртысында Казан төбәгендә яшәүче халыкның төп төркемен ясаклы крестьяннар һәм башка җирләрдән күчереп китерелгән рус игенчеләре (переведенец) тәшкил итә.'
+				}
+			}
+			{
+				anchor: {
+					eng: 'Yasak people'
+					rus: 'Ясачные люди'
+					tat: 'Ясаклы кешеләр'
+				}
+				text: {
+					eng: '''Yasak people are peasants from the indigenous inhabitants of the territories annexed to the Russian state. Representatives of this part of the population worked on state land, for the use of which they paid a tax to the state, this tax was called yasak, it could be collected both in money and in food. Tatars, Chuvashes, Mari, Udmurts could be yasak people. They were also engaged in hunting, fishing, and beekeeping, participated
+					in the construction of roads, fortifications and cities
+					of fortification lines. Yasak people, in contrast to the Russian serfs, were personally free.
+					'''
+					rus: '''Крестьяне из числа коренных жителей присоединенных
+					к русскому государству территорий. Представители этой части населения работали на государственной земле,
+					за пользование которой они платили налог в пользу государства – ясак, который мог взиматься как деньгами,
+					так и быть натуральным.
+
+					Ясачными людьми могли быть татары, чуваши, марийцы, удмурты. Они также занимались охотой, рыболовством, бортничеством, участвовали в строительстве дорог, укреплений и городов засечных линий. Ясачные люди,
+					в отличие от русских крепостных крестьян, были лично свободными.
+					'''
+					tat: '''Рус дәүләтенә кушылган территорияләрдә яшәгән җирле крестьяннарның бер өлеше. Халыкның әлеге төркеме дәүләт җирләрен эшкәртә. Аны кулланган өчен акча яки уңышның бер өлеше белән дәүләт файдасына салым түли. Ясаклы кешеләр төркеменә, шулай ук, татарлар, чуашлар, марилар, удмуртлар керергә мөмкин булган. Алар аучылык, балыкчылык, чолыкчылык белән шөгыльләнәләр, юллар, засека линияләре шәһәрләрен һәм ныгытмаларын төзүдә катнашалар. Ясаклы кешеләр рус крепостной крестьяннарыннан ирекле булулары белән аерылып торалар. 
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Perevedentsy'
+					rus: 'Переведенцы'
+					tat: 'Күчеп утыручылар'
+				}
+				text: {
+					eng: '''Perevedentsy are Russian serfs, bobyls (peasants who did not bear state duties) and kholops transferred by landowners from the central regions of the Russian State to the lands
+					of the Middle Volga region.
+					'''
+					rus: '''русские крепостные крестьяне, бобыли и холопы, переведенные помещиками из центральных районов Русского государства на земли Среднего Поволжья.'''
+					tat: '''(Переведенец) – алпавытлар тарафыннан Рус дәүләтенең үзәк районнарыннан Урта Идел буендагы җирләргә күчереп китерелгән рус крепостной крестьяннары, бобыльләр, холоплар. '''
+				}
+			}
+		]
+		images: [
+			{
+				path: 'population-1.webp'
+				label: {
+					name: {
+						eng: 'Boyar Son'
+						rus: 'Сын боярский'
+						tat: 'Бояр улы'
+					}
+					text: {
+						eng: 'Drawing by O. Brandukov. 2006'
+						rus: 'Рисунок О. Ю. Брандукова. 2006'
+						tat: 'О. Ю. Брандуков рәсеме. 2006'
+					}
+				}
+			}
+			{
+				path: 'population-2.webp'
+				label: {
+					name: {
+						eng: 'Gunner'
+						rus: 'Пищальник'
+						tat: 'Тупчы'
+					}
+					text: {
+						eng: 'Drawing by O. Brandukov. 2006'
+						rus: 'Рисунок О.Ю. Брандукова. 2006'
+						tat: 'О.Ю. Брандуков рәсеме. 2006'
+					}
+				}
+			}
+			{
+				path: 'population-3.webp'
+				label: {
+					name: {
+						eng: 'Mirza (Tatar Nobleman)'
+						rus: 'Мурза'
+						tat: 'Морза'
+					}
+					text: {
+						eng: 'Drawing by O. Brandukov. 2006'
+						rus: 'Рисунок О.Ю. Брандукова. 2006'
+						tat: 'О.Ю. Брандуков рәсеме. 2006'
+					}
+				}
+			}
+			{
+				path: 'population-4.webp'
+				label: {
+					name: {
+						eng: 'Cossack'
+						rus: 'Казак'
+						tat: 'Казак'
+					}
+					text: {
+						eng: 'Drawing by O. Brandukov. 2006'
+						rus: 'Рисунок О.Ю. Брандукова. 2006'
+						tat: 'О.Ю. Брандуков рәсеме. 2006'
+					}
+				}
+			}
+			{
+				path: 'population-5.webp'
+				label: {
+					name: {
+						eng: 'Shop'
+						rus: 'Лавка'
+						tat: 'Кибет'
+					}
+					text: {
+						eng: 'Copy by V. Laptev from the drawing by A. Olearius of 1696. 1954'
+						rus: 'Копия В.Л. Лаптева с рисунка А. Олеария 1696 г. 1954'
+						tat: 'А. Олеарийның 1696 елгы рәсеменнән В.Л. Лаптев ясаган күчермә. 1954'
+					}
+				}
+			}
+		]
+	}
+	city: {
+		category: 'city'
+		title: {
+			eng: 'Cities\nand Villages'
+			rus: 'Города\nи поселения'
+			tat: 'Шәһәрләр\nһәм авыллар'
+		}
+		information: [
+			{
+				anchor: {
+					eng: 'Kazan'
+					rus: 'Казань'
+					tat: 'Казан'
+				}
+				text: {
+					eng: '''Kazan in the 15th-17th centuries was one of the most important political, cultural, economic centers of the Middle Volga region.
+
+					After 1552, the city walls were replaced with new ones
+					– partly stone, partly oak. Postnik Yakovlev conducted
+					the construction of the walls of Kazan. The Kazan Kremlin had
+					5 gates. Also, at the corners of the walls and in the middle
+					of the long sides of the fortress, 8 round, impassable towers were erected. As a result of the reconstruction, the Kazan fortress became one of the strongest fortresses
+					in the Volga-Kama region.
+
+					There were numerous churches, houses of the nobility,
+					and premises of state institutions on the territory
+					of the fortress. The estates of the archbishop and voivode
+					were also located here. The voivode’s courtyard was the largest
+					on the territory of the fortress. According to the scribal book
+					of 1565-1568, the total number of buildings and courtyards
+					in the Kazan Kremlin exceeded 180.
+					'''
+					rus: '''Казань XVI-XVII вв. – важнейший политический, культурный, экономический центр Среднего Поволжья.
+					
+					После 1552 г. крепостные стены города были заменены новыми – частично каменными, частично дубовыми. Строительством стен Казани руководил Постник Яковлев. Казанский кремль имел 5 ворот. Также по углам стен
+					и в середине длинных сторон крепости было поставлено
+					8 круглых, непроезжих башен. В результате перестройки Казанская крепость становится одной из сильнейших крепостей в Волжско-Камском регионе.
+					
+					На территории крепости находились многочисленные церкви, жилые дома знати, помещения, где располагались государственные учреждения. Здесь же располагались усадьбы архиепископа и воеводы. Воеводский двор
+					был самым большим на территории крепости. Всего,
+					по данным писцовой книги 1565-1568 гг. общее количество зданий и дворов в Казанском кремле превышало 180.
+'''
+					tat: '''XVI-XVII йөзләрдә Казан шәһәре Урта Идел буендагы әһәмиятле сәясәт, мәдәният һәм икътисад үзәге була.
+
+					1552 елдан соң Казан ныгытмасы стеналары Постник Яковлев җитәкчелегендә өлешчә таштан, өлешчә имәннән салынган яңа стеналар белән алыштырыла. Казан кремле 
+					5 капкага, ныгытма почмакларында һәм озын стеналар уртасында урнашкан 8 түгәрәк юлсыз манараларга ия була. Төзелешенә кертелгән үзгәрешләр нәтиҗәсендә Казан кремле Идел-Чулман регионындагы иң көчле ныгытмаларның берсенә әверелә. 
+
+					Ныгытма территориясендә күпсанлы чиркәүләр, аксөякләрнең торак йортлары, дәүләт оешмалары биналары, шул исәптән, архиепископ һәм воевода сарайлары урнаша. Воевода сарае биредәге биналарның иң зурысы санала. 1565-1568 еллар кулъязма китабында Казан кремлендәге биналарның һәм сарайларның гомуми саны 180 нән артык булуы күрсәтелә. 
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Kazan Posad'
+					rus: 'Казанский посад'
+					tat: 'Казан посады'
+				}
+				text: {
+					eng: '''Posad (settlement outside of Kremlin), like the Kremlin,
+					was fortified with a wooden wall. The posad wall had 11 gates and 16 towers. Several streets passed through the territory
+					of the posad: Spasskaya, Voskresenskaya, Prolomnaya, Pskovskaya, Bolshaya, Pryamaya, Vozdvizhenskaya.
+
+					On these streets, there were many courtyards where clergymen lived, artisans - tailors, carpenters, fishmongers,
+					hat-makers, silversmiths, shoemakers, kalach-makers
+					(kalach is traditional Eastern European bread), horn-makers,
+					cauldron-makers. Boyar children, translators, posad people,
+					and Russian nobility could also live on the territory
+					of the posad. Several slobodas (settlements) were formed around the posad.
+
+					'''
+					rus: '''Посад, как и кремль, был укреплен деревянной стеной. Посадская стена имела 11 ворот и 16 башен. По территории посада проходило несколько улиц: Спасская, Воскресенская, Проломная, Псковская, Большая, Прямая, Воздвиженская.
+					
+					На этих улицах находилось множество дворов,
+					где проживали служители церкви, ремесленники – портные, плотники, рыбники, шапочники, серебряных дел мастера, сапожники, калачники, рожешники, котельники.
+					На территории посада также могли проживать дети боярские, толмачи, посадские люди, русская знать. Вокруг посада сформировался целый ряд слобод
+
+					'''
+					tat: '''Посад, кремль кебек үк, 11 капкалы һәм 16 манаралы агач стена белән уратыла. Аның территориясенә берничә урам керүе билгеле: Спас, Воскресенский, Проломная, Псков, Зур, Туры, Воздвиженский. 
+
+					Биредә чиркәү хезмәткәрләре, һөнәрчеләр (тегүчеләр, балтачылар, балыкчылар, башлык тегүчеләр, көмешчеләр, итекчеләр, калач пешерүчеләр, быргычылар, казан ясау осталары) яшәгән күпсанлы йортлар урнаша. Шулай ук, бояр балаларына, толмачларга, посад кешеләренә,
+					рус аксөякләренә посад территориясендә яшәү рөхсәт ителә. Соңрак аның әйләнәсендә башка бистәләр формалаша башлый.
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Kazan Slobodas'
+					rus: 'Слободы Казани'
+					tat: 'Казан шәһәре бистәләре'
+				}
+				text: {
+					eng: '''
+					**Tatarskaya Sloboda**. The Tatarskaya Sloboda in the second half of the 16th century was formed beyond Bulak,
+					on the swampy shore of Lake Kaban. The settlement had its fortification – a wooden fort with several gates.
+					The emergence of Russian settlements in Kazan was associated with the military, commercial and industrial development
+					of the city. Sloboda were isolated settlements with natural borders – ravines, rivers, swamps, hills.
+
+					Russian slobodas of Kazan of the 16th-17th centuries
+					were divided into two types:
+					* slobodas on the territory of the posad;
+					* slobodas outside the posad.
+
+					The slobodas located on the territory of the posad
+					were divided into serving military, serving non-military and peasants.
+
+					**Novaya Sloboda**. It was located on the territory of modern Bauman Street from the Kachalov Theater to the Epiphany Bell Tower. Initially, it had a military purpose, but by the middle
+					of the 17th century it ceased to perform a military function
+					and became a craft and trade settlement. People of different professions lived here – bakers, cake-makers, brick-makers, shoemakers, furriers.
+
+					**Yamskaya Sloboda**. It was located along the Bulak channel
+					in the area of modern Moskovskaya and Mezhlauka streets.
+					Here was the Church of the Dormition of the Most Pure Theotokos with the chapel of Flora and Laurus, the patrons
+					of the coachmen. The settlement was inhabited by coachmen, who were in the civil service. They ensured the work
+					of equestrian transport along the Moscow road between Kazan and Moscow. By the beginning of the 18th century, the number of coachmen who lived here reached 200 people. In the 18th century, the settlement became part of the city.
+
+					**Plotnichya Sloboda**. Just like the Yamskaya Sloboda,
+					it was located near Bulak. Carpenters lived here; they performed work on the orders of the voivodes and dyaks. The settlement
+					was small enough and consisted of 8 courtyards.
+
+					**Arkhiepiskopskaya Sloboda**. It was located not far
+					from the Yamskaya Sloboda, on the site of the Kuraisheva Sloboda of the khan's time. These lands were granted
+					to the first Kazan and Sviyazhsk Archbishop Gurii. In total, almost 100 people lived in the settlement. These were the boyar and archbishop children, dyaks singers, bishop peasants.
+
+					**Preobrazhenskaya Sloboda**. It was located behind Bulak
+					and belonged to the Transfiguration Monastery. The sloboda was inhabited mainly by monastery peasants, as well as
+					monastery artisans and servants, who performed various works.
+
+					**Petrovskaya Sloboda**. It was located in the area of modern Kremlin Street. It belonged to the Kazan Metropolitan Matvey and got its name from the Church of St. Peter. Here lived craftsmen, who were engaged in the creation of icons and rizas (revetments) for them (icon painters, silvering-makers,
+					and gilding-makers), candle-makers, carpenters, translators,
+					as well as boyar children.
+
+					**Mokraya Sloboda**. It was located on the way out of Kazan
+					to the Moscow road, in a swampy, damp place. Artisans lived here, including rawhide-makers, canvas-makers, tanners, furriers, and rags traders.
+
+					**Armyanskaya Sloboda**. It was located on the eastern shore of Lake Nizhniy Kaban. Posad people lived here; 4 courtyards belonged to the Armenians.
+
+					**Zasypkina Sloboda**. It was located behind the wall
+					of the posad on the banks of the Kazanka. The sloboda
+					was named either by its location at the site of the filled-in (Russian verb «zasypat») defensive ditch, or by the name
+					of the millers’ assistants «zasypki», who lived here. People
+					of different professions lived in this sloboda – butchers, shoemakers, tanners, tailors, gunners, gingerbread-makers, bakers, millers, and millers’ assistants.
+
+					**Troitskaya Sloboda**. It was located on the outskirts of Kazan. It was inhabited by artisans – shoemakers, carpenters, potters, woodworkers. Sheepskin-makers and brewers also lived here.
+
+					**Fedorovskaya Sloboda**. It was located on the northwestern outskirts of the city. In 1600, the monastery of Theodore Stratelates was founded here. The sloboda got its name
+					from the name of the monastery. There were 36 courtyards
+					in the sloboda; sheepskin-makers, tailors, furriers,
+					kalach-makers, fishmongers, butchers, mitten-makers,
+					sarafan-makers (sarafan is traditional Russian dress),
+					icon makers and others lived here. 
+
+					**Krasnaya Sloboda**. The sloboda was located on the eastern outskirts of the city, in a dry place on a hill. Russian landowners settled here from the second half of the 16th century.
+
+					**Arkhangelskaya Sloboda**. It was formed on the site
+					of the village of khan's time Kulmametova. In 1567, the village was granted to Archbishop German. Gradually, this area
+					was inhabited by bobyls (peasants who did not bear state duties); artisans also lived here. The documents of the end
+					of the 17th century mention the bricklayers, brick-makers, brewers, carpenters, wagon-makers, and silversmiths who lived here.
+
+					**Serving Military Slobodas**. In total, there were five serving Streltsy slobodas in Kazan in the second half of the 16th-17th centuries: Streletskaya Sloboda of Danila Khokhlov, Streletskaya Sloboda of Subbota Grigorev, the son of Chaadaev, Streletskaya Sloboda of Tretyak Myortvy, Veshnyakova Sloboda, Glyadkova Streletskaya Sloboda. They were located around the posad,
+					and in the event of a military threat, the garrisons deployed here were supposed to defend the city from enemy troops.
+					The Streletsky Garrison of Kazan numbered about 1000 people. In addition to the Streltsy, representatives of the clergy, translators, newly baptized people, artisans, and merchants lived in such slobodas. By the end of the 17th century, the Kazan serving military slobodas lost their strategic importance.
+
+					'''
+					rus: '''
+					**Татарская слобода**. Татарская слобода во второй половине XVI в. сформировалась за Булаком, на заболоченном берегу озера Кабан. Слобода имела собственное укрепление – деревянный острог с несколькими воротами.
+					Появление русских слобод в Казани было связано с военным, торговым и промышленным развитием города. Слободы были обособленными поселениями, имевшими естественные границы – овраги, речки, болота, холмы.
+					Русские слободы Казани XVI-XVII вв. делились на два типа: 
+					* слободы на территории посада. Делились на военно-служилые, служилые невоенные и крестьянские.
+					* слободы вне посада.
+					
+
+					**Новая слобода**. Располагалась на территории современной улицы Баумана от театра имени Качалова до Богоявленской колокольни. Изначально имела военное предназначение,
+					но к середине XVII в. перестала выполнять военную функцию и стала ремесленно-торговой. Здесь проживали люди разных профессий – хлебники, пирожники, кирпичники, сапожник, скорняк.
+
+					**Ямская слобода**. Располагалась вдоль протоки Булак
+					в районе современных улиц Московская, Межлаука. Здесь располагалась церковь Успения Пречистой Богородицы
+					с приделом Флора и Лавра, покровителей ямщиков. В слободе проживали ямщики, находящиеся на государственной службе. Они обеспечивали работу конного транспорта по Московской дороге между Казанью и Москвой. К началу XVIII в. численность проживавших здесь ямщиков достигает 200 человек. В XVIII в. слобода вошла в состав города.
+
+					**Плотничья слобода**. Так же, как и Ямская слобода, располагалась вблизи Булака. Здесь проживали плотники, выполнявшие работы по приказу воевод и дьяков. Слобода была достаточно небольшой и состояла из 8 дворов.
+
+					**Архиепископская слобода**. Располагалась неподалеку
+					от Ямской слободы, на месте Кураишевой слободы ханского времени. Эти земли были пожалованы первому казанскому
+					и свияжскому архиепископу Гурию. Всего в слободе проживало почти 100 человек. Это были архиепископские дети боярские, певчий дьяк, архиерейские крестьяне. 
+					
+					**Преображенская слобода**. Находилась за Булаком
+					и принадлежала Спасо-Преображенскому монастырю. Слобода была населена преимущественно монастырскими крестьянами, а также мастеровыми и монастырскими слугами, которые выполняли различные работы.
+					
+					**Петровская слобода**. Располагалась в районе современной Кремлевской улицы. Принадлежала казанскому митрополиту Матвею, свое название получила по церкви Святого Петра. Здесь жили мастера, которые занимались созданием икон
+					и изготовлением окладов к ним (иконописцы, серебренник, сусальник), свечник, плотник, толмач, а также дети боярские. 
+					
+					**Мокрая слобода**. Располагалась на выезде из Казани
+					на московскую дорогу, в заболоченном, сыром месте. Здесь проживали ремесленники,в том числе – сыромятник, холщевник, кожевник, шубник, скорняк, ветошник.
+					
+					**Армянская слобода**. Находилась на восточном берегу озера Нижний Кабан. Здесь проживали посадские люди,
+					в том числе, 4 двора принадлежали армянам. 
+					
+					**Засыпкина слобода**. Располагалась за стеной посада
+					на берегу Казанки. Название слобода получила или по своему расположению на месте засыпанного оборонительного рва, или по названию проживавших здесь помощников мельников – «засыпок». В этой слободе жили люди разных профессий
+					– мясники, сапожники, кожевники, портные, пушкарь, пряничник, хлебники, мельники и помощники мельников.
+					
+					**Троицкая слобода**. Располагалась на окраине Казани. Населялась ремесленниками – сапожниками, плотниками, горшечниками, деревщиками. Также проживали здесь башмачник, овчинник и пивовар.
+					
+					**Федоровская слобода**. Находилась на северо-западной окраине города. В 1600 г. здесь был основан мужской монастырь Федора Стратилата. По названию монастыря слобода получила свое название. В слободе было 36 дворов,
+					в которых проживали овчинник, портной, скорняки, калачник, рыбник, мясник, рукавишник, сарафанник, иконник и другие.
+					
+					**Красная слобода**. Слобода располагалась на восточной окраине города, в сухом, возвышенном месте. Здесь,
+					со второй половины XVI в. селились русские помещики. 
+					
+					**Архангельская слобода**. Образовалась на месте деревни ханского времени Кулмаметова. В 1567 г. деревня была пожалована архиепископу Герману. Постепенно эта местность заселялась бобылями (крестьянами, не несущими государственных повинностей), жили здесь и ремесленники.
+					В документах конца XVII в. упоминаются проживавшие здесь каменщики, кирпичники, пивовары, плотники, тележные мастера, серебренники.
+					
+					**Военно-служилые слободы**. Всего в Казани второй половины XVI-XVII вв. существовало пять служилых стрелецких слобод: Стрелецкая слобода Данилы Хохлова, Стрелецкая слобода Субботы Григорьева сына Чаадаева, Стрелецкая слобода Третьяка Мертвого, Слобода Вешнякова, Глядкова стрелецкая слобода. Они располагались вокруг посада и в случае военной опасности размещенные здесь гарнизоны должны были защищать город от вражеского войска. Стрелецкий гарнизон Казани насчитывал около 1000 человек. Помимо стрельцов в таких слободах проживали представители духовенства, толмачи, новокрещены, ремесленники и торговцы. К концу XVII века казанские военно-служилые слободы теряют свое стратегическое значение.
+					'''
+					tat: '''
+					**Татар бистәсе**. XVI йөзнең икенче яртысында Булак артында, Кабан күленең сазлыклы ярында барлыкка килә. Бистә берничә капкалы агач коймадан торган шәхси ныгытмагаия була.				Казанда рус бистәләре барлыкка килү шәһәрдәге хәрби, сәүдә һәм сәнәгать үсеше белән бәйле. Алар чокырлар, елгалар, сазлыклар, калкулыклар кебек табигый чикләргә ия булган аерым авылларны хасил итәләр. 
+
+					XVI-XVII йөзләрдә Казандагы рус бистәләре ике төргә бүленә: 
+					* посад территориясендәге бистәләр; Посад территориясендә хәрби һәм йомышлы, хәрби булмаган йомышлы, крестьяннар бистәләре урнаша.
+					* посадның тышкы ягында урнашкан бистәләр.
+
+
+					**Яңа бистә**. Хәзерге Бауман урамы территориясендә, Качалов исемендәге театрдан Богоявленский манарасына кадәрге территорияне үз эченә ала. XVII йөзнең уртасында хәрби әһәмиятен югалта һәм һөнәрчеләр, сәүдәгәрләр бистәсенә әверелә. Биредә төрле һөнәр ияләре (икмәк
+					һәм бәлеш пешерүчеләр, кирпеч басучылар, аяк киеме тегүчеләр, тире иләүчеләр) яши.
+
+					**Ямчылар бистәсе**. Болак буенда, хәзерге Мәскәү, Межлаук урамнары районында урнаша. Биредә ямчыларны саклаучылар Флора һәм Лавр янкормасы булган Успения Пречистая Богородица чиркәве урын ала. Бистәдә дәүләт хезмәтендә торган ямчылар яши. Алар Мәскәү белән Казан арасындагы юлда атлы транспорт эшчәнлеген тормышка ашыралар. XVIII йөз башында бистәдә 200 гә якын ямчы яшәве билгеле. XVIII йөздә бистә шәһәр составына керә. 
+					
+					**Балтачылар бистәсе**. Ямчылар бистәсе кебек үк, Болак буенда урнаша. Биредә воеводалар һәм дьяклар боерыгы буенча эшләгән балтачылар яши. Әлеге зур булмаган бистәдә 8 йорт булуы билгеле. 
+					
+					**Архиепископ бистәсе**. Ямчылар бистәсеннән ерак түгел, хан чорындагы Кораешлар бистәсе урынында барлыкка килә. Әлеге җирләр беренче казан һәм зөя архиепискобы Гурийга бүләк ителәләр. Бистәдә барлыгы 100 гә якын кеше яши: архиепископ һәм бояр балалары, җырчы дьяк, архиерей крестьяннары. 
+					
+					**Преображенский бистәсе**. Болак артында урнаша
+					һәм Спасо-Преображенский монастыре карамагында була. Бистәдә, нигездә, монастырь крестьяннары, төрле эшләр башкаручы осталар һәм монастырь хезмәтчеләре яши. 
+
+					**Питрау бистәсе**. Хәзерге Кремль урамы районында урнаша. Казан митрополиты Матвей карамагында була. Атамасы Изге Петр чиркәве белән бәйле. Биредә иконалар язуһәм аңа окладлар ясау (иконописец, көмешче, сусальчы) белән шөгыльләнүче осталар, шәмче, балтачы, толмач
+					һәм бояр балалары яши.
+
+					**Дымлы бистә**. Территориясе Казан шәһәреннән Мәскәү юлына чыгу юнәлешендәге сазлыклы, дымлы урыннарны
+					үз эченә ала. Биредә дупланмаган тире эшкәртүчеләр, киндер тукучылар, күнчеләр, тунчылар, иске әйбер җыючылар кебек һөнәрчеләр яши. 
+
+					**Әрмән бистәсе**. Түбән Кабан күленең көнчыгыш ярында урнаша. Биредә посад кешеләре яши, шулай ук 4 әрмән йорты булуы теркәлгән.
+
+					**Засыпкин бистәсе**. Посад стенасы артында, Казансу елгасы ярында урнаша. Исеме күмелгән оборона чокыры урынында урнашуы, яки биредә яшәгән тегермәнче ярдәмчеләре («засыпок») белән бәйле дип фаразлана. Әлеге бистәдә төрле һөнәр ияләре вәкилләре яши: итчеләр, итекчеләр, тиречеләр, тегүчеләр, тупчылар, прәннекчеләр, икмәкчеләр, тегермәнчеләр һәм аларның ярдәмчеләре яши. 
+
+					**Троицкий бистәсе**. Казан шәһәренең чигендә урнаша. Биредә итекче, балтачы, чүлмәкче, агач эше осталары, шул исәптән башмакчылар, тире иләүчеләр һәм сыра кайнатучылар кебек һөнәрчеләр яши
+					
+					**Федоров бистәсе**. Шәһәрнең төньяк-көнбатыш кырыенда урнаша. 1600 елда биредә Федор Стратилат ирләр монастырена нигез салына. Бистәнең атамасы әлеге монастырь исеме белән бәйле. Биредә тире иләүче, тегүче, калач пешерүче, балыкчы, итче, бияләй бәйләүче, сарафан тегүче, икона язучы һәм башкалар яшәгән 36 йорт исәпләнә. 
+
+					**Кызыл бистә**. Бистә шәһәрнең көнчыгыш кырыендагы коры калкулыкта урнаша. XVI йөзнең икенче яртысыннан башлап биредә рус алпавытлары яши.
+
+					**Архангель бистәсе**. Ханлык чорында нигез салынган Колмәмәт авылы урынында барлыкка килә. 1567 елда авыл архиепископ Германга бүләк ителә. Акрынлап бирегә бобыльләр (дәүләт йөкләмәләреннән азат ителгән крестьяннар), һөнәрчеләр күчеп килә. XVII йөз ахыры документларында биредә ташчылар, кирпеч басучылар, сыра кайнатучылар, балтачылар, арба ясаучылар, көмешчеләр яшәве теркәлгән.
+
+					**Хәрбиләр һәм йомышлылар бистәсе**. XVI йөзнең икенче яртысында - XVII йөздә Казанда барлыгы биш йомышлы укчылар бистәсе булуы билгеле: Данила Хохлов укчылар бистәсе, Чаадаев улы Суббота Григорьев укчылар бистәсе, Третьяк Мертвый укчылар бистәсе, Вешняков бистәсе, Глядков укчылар бистәсе. Алар посад әйләнәсендә урнашалар,
+					һәм биредә яшәгән гарнизоннар, дошманнар һөҗүме очрагында, шәһәрне дошман гаскәрләреннән сакларга тиеш булалар. Казандагы укчылар гарнизонында 1000 якын кеше хисаплана. Биредә укчылардан тыш руханилар, толмачлар (тәрҗемәчеләр), яңа керәшеннәр, һөнәрчеләр
+					һәм сатучылар яши. XVII йөзнең ахырына Казан шәһәренең хәрбиләр һәм йомышлылар бистәләре үзләренең стратегик әһәмиятләрен югалталар. 
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Zasechnye Cherty (Fortification Lines)'
+					rus: 'Засечные черты'
+					tat: 'Засека линияләре'
+				}
+				text: {
+					eng: '''Defensive lines on the territory of the Kazan region
+					were built from the second half of the 16th century. The first
+					fortification line of the region was the Tetyushskaya,
+					or Karlinskaya, Cherta erected from the Tetyushi fortress
+					to Temnikov in the second half of the 16th century.
+					In the 17th century, Russian settlements began to appear south
+					of the Tetyushskaya Zasechnaya Cherta. At first, fortresses 
+					and monasteries appeared here, settlements arose around them, 
+					and they were inhabited by monastery children, servants
+					and elders. Their main occupations were fishing, agriculture,
+					and other activities typical for the rural population.
+					The settlements grew into villages, where, along with
+					the monastery people, peasants also appeared.
+
+					In 1652, under the leadership of the Kazan voivode
+					N. Odoevsky, the construction of the Zakamskaya Zasechnaya
+					Cherta began. The construction of this fortification
+					was completed in 1657. The length of the zasechnaya cherta
+					was almost 200 km. During the construction of the line,
+					serving Cossacks, horse Streltsy, plow peasants and szlachta
+					(noble class in Poland) people captured during the war with
+					Poland moved to it. Fort towns were built on the fortification
+					line: Bely Yar, Eryklinsk, Tiinsk, Bilyarsk, Novosheshminsk, Zainsk.
+
+					The territories between the cities were occupied
+					by ramparts, serifs and nadolbs (rows of wooden stakes
+					dug into the ground). Such cities, which played the role
+					of fortresses, were settled by Cossacks, peasants, serving people, and captured szlachta.
+
+					'''
+					rus: '''Оборонительные линии на территории Казанского края возводились со второй половины XVI столетия.  Первой оборонительной линией края явилась Тетюшская, или Карлинская, черта, возведённая от крепости Тетюш
+					до Темникова во второй половине XVI в. В XVII в. русские поселения начинают появляются южнее Тетюшской засечной черты. Поначалу здесь появлялись крепости и монастыри, вокруг которых возникали поселки, населявшиеся монастырскими детенышами, служками и старцами.
+					Их основными занятиями были рыбные ловли, земледелие
+					и другие характерные для сельского населения занятия. Поселки вырастали в деревни, где наряду с монастырскими людьми появлялись и крестьяне. 
+					
+					В 1652 г. под руководством казанского воеводы
+					Н.И. Одоевского началось строительство Закамской засечной линии. Создание этого укрепления завершилось в 1657 г. Длина засечной линии составила почти 200 км. По мере возведения черты на нее переселялись служилые казаки, конные стрельцы, пашенные крестьяне и плененные во время войны с Польшей шляхтичи. На укрепленной линии были построены городки-остроги: Белый Яр, Ерыклинск, Тиинск, Билярск, Новошешминск, Заинск.
+
+					Промежутки между городами были заняты валами, засеками и надолбами. Заселялись такие города, играющие роль крепостей, казаками, крестьянами, служилыми людьми, плененной шляхтой.
+					'''
+					tat: '''XVI йөзнең икенче яртысында Казан төбәге территориясендә оборона сызыклары торгызыла башлый. Төбәктәге иң беренче оборона линиясе булып XVI йөзнең икенче яртысында Тәтеш ныгытмасыннан Темниковка кадәр сузылган Тәтеш (Карлы) сызыгы санала. XVII йөздә Тәтеш засека сызыгыннан көньякта рус авыллары барлыкка килә. Беренче чиратта ныгытмаларга һәм монастырь ятимнәре, служкалары һәм картлары яшәгән бистәләр белән әйләндереп алынган монастырьларга нигез салына. Халыкның төп шөгыльләре булып балык тоту, игенчелек
+					һәм авыл халкына хас булган башка эшләр тора. Бистәләр акрынлап монастырь кешеләреннән тыш, крестьяннар
+					да яшәгән авылларга әвереләләр. 
+
+					1652 елда казан воеводасы Н.И Одоевский җитәкчелегендә Кама арты засека линиясен төзү эшләре башлана. Озынлыгы 200 метрга якын булган засека линиясен торгызу 1657 елда тәмамлана. Төзелеш дәвамында бирегә йомышлы казаклар, атлы укчылар, җир эшкәртүче крестьяннар һәм Польша белән сугыш вакытында әсирлеккә алынган шляхтачылар килеп төпләнә. Ныгытылган линиядә яңа төрмә-шәһәрләр барлыкка килә: Ак Яр, Зирекле, Тиинский, Биләр, Яңа чишмә, Зәй.
+
+					Шәһәрләр арасында чокырлар казыла, засекалар
+					һәм кыска баганалар утыртыла. Әлеге ныгытмалар ролен үтәгән шәһәрләрдә казаклар, крестьяннар, шляхтада әсирлеккә алынган йомышлы кешеләр яши. 
+					'''
+				}
+			}
+			{
+				anchor: {
+					eng: 'Towns'
+					rus: 'Городки'
+					tat: 'Шәһәрчекләр'
+				}
+				text: {
+					eng: '''The towns of the 17th century were quite small. In the center of the town, there was a small fenced square or round square. Towers were made in the walls of the fort; there were gates under some of them. Inside the fort, there usually was a church, the Sovereign Order Izba, Guard Izba at the gates, sometimes several courtyards of serving people, cellars with military
+					and food supplies, barns, and granaries.
+
+					At a distance of several meters from the wall, a ditch
+					was dug; behind it, there were settlements that could be fenced off with a palisade. Serving Streltsy, Cossacks, soldiers, spearmen settled in the slobodas. Lines of fortifications stretched between the cities: depending on the terrain,
+					these could be ramparts, notches, nadolbs (rows of wooden stakes dug into the ground).
+
+					The city of **Tetyushi** was founded in 1574-1578 as a fortress
+					to protect the Volga region from the raids of nomads. The town
+					had a fortification. In the middle of the 17th century,
+					the military significance passed from Tetyushi to Simbirsk built
+					in 1648, and the Simbirsk Zasechnaya Cherta was built instead
+					of the Tetyushskaya Zasechnaya Cherta.
+
+					Fortress **Bely Yar** was founded in 1652 on the left bank
+					of the Volga, above the confluence of the Cheremshan River.
+					Cossacks and Streltsy were sent to Bely Yar from Laishev,
+					they provided the defense of the fortress. The Sovereign
+					Fish Yard was located in the city; here fishermen brought fish
+					intended for the tsar's table and the needs of the army.
+					By the end of the 17th century, as the borders of the Russian
+					state expanded, Bely Yar lost its tactical significance,
+					but it continues to exist as a settlement to this day.
+
+					**Eryklinsk** was founded as a fort in the structure
+					of the Zakamskaya Zasechnaya Cherta in 1652. At the end
+					of the 18th century, it ceased to exist as a fortification
+					and began to develop as a large village – at the end of the 19th
+					century there were many shops, potassium carbonate factory,
+					and fairs were regularly held.
+
+					**Laishev** was built in 1557 near Kazan on the site of the
+					Bulgaria settlement Laish as a stronghold for resisting the raids of nomads. The population of the early Laishev was represented by military people – Streltsy, zatinschiks (fortress gunners), gunners. After losing its military significance, it became a major craft center.
+
+					**Tiinsk** appeared in the middle of the 17th century as a fort
+					on the Zakamskaya Zasechnaya Cherta and was originally
+					inhabited by the Polish szlachta (nobility) captured after
+					the battle of Smolensk in 1654.
+
+					**Novosheshminsk** was built as a military fortress
+					of the Zakamskaya Zasechnaya Cherta in 1652 on the site
+					of a small settlement. The first settlers, as well as	in other fortresses, were Streltsy with their families.
+
+					**Bilyarsk** was founded in 1654 as a fortress not far from
+					the ruins of ancient Bilyar, the capital of the Volga Bulgaria. After losing its importance as a military fortification,
+					it continued to be the largest settlement in the Kazan Governorate.
+
+					**Zainsk** as a fort of the Zakamskaya Zasechnaya Cherta appeared in 1652. It was considered one of the most powerful fortresses of its time. Initially, the population consisted
+					of a Streltsy garrison.
+					'''
+					rus: '''Городки XVII века были достаточно небольшими. В центре города находился острог – небольшая огороженная четырехугольная или круглая площадь. В стенах крепости делались башни, под некоторыми из которых имелись ворота. Внутри острога обычно находились церковь, государева приказная изба, караульная изба у ворот, иногда несколько дворов служилых людей, погреба с военными и съестными припасами, амбары и житницы. 
+					
+					На расстоянии нескольких метров от стены прорывался ров, за которым находились слободы, которые могли быть огорожены частоколом. В слободах селились служилые стрельцы, казаки, солдаты, копейщики. Между городами протянулись линии укреплений: в зависимости от рельефа местности это могли быть валы, засеки, надолбы (ряды деревянных столбов, врытых в землю).
+
+					Город **Тетюши** как крепость был основан в 1574-1578 гг. для защиты Поволжья от набегов кочевников. Город имел сторожевое укрепление. С середины XVII века военное значение от Тетюш переходит к построенному в 1648 г. Симбирску, а вместо Тетюшской засеки была построена Симбирская черта.
+					
+					Крепость **Белый Яр** была заложена в 1652 г. на левом берегу Волги, выше впадения в нее реки Черемшан. В Белый Яр из Лаишева были направлены казаки и стрельцы, которые обеспечивали оборону крепости. В городе находился государев рыбный двор, куда рыбаки свозили рыбу, предназначенную для царского стола и на нужды армии.
+					К концу XVII в., по мере расширения границ российского государства, Белый Яр теряет свое тактическое значение, однако продолжает существовать как населенный пункт
+					и по сей день.
+					
+					**Ерыклинск** был основан как острог в структуре Закамской засечной линии в 1652 г. В конце XVIII в. прекращает свое существование как укрепление, развивается как крупное село – в конце XIX века здесь было множество лавок, поташный завод, регулярно проводились ярмарки. 
+					
+					**Лаишев** построен в 1557 году неподалеку от Казани
+					на месте булгарского поселения Лаиш как опорный пункт
+					для противостояния набегам кочевников. Население раннего Лаишева было представлено военными людьми
+					\\- стрельцами, затинщиками, пушкарями. После утраты
+					им военного значения становится крупным центром ремесленного производства.
+					
+					**Тиинск** возник в середине XVII в. как острог на Закамской засечной линии и первоначально был населен польской шляхтой, плененной после взятия в 1654 г. Смоленска.
+					
+					**Новошешминск** был построен как военная крепость Закамской черты в 1652 году на месте небольшого поселения. Первыми поселенцами здесь, как и в других крепостях, были стрельцы с семьями. 
+					
+					**Билярск** был основан в 1654 году как крепость неподалеку от развалин древнего Биляра - столицы Волжской Булгарии. После утраты своего значения как военного укрепления продолжает оставаться крупнейшим населенным пунктом Казанской губернии.
+					
+					**Заинск** как острог Закамской черты возник в 1652 г. Считался одной из наиболее мощных крепостей своего времени. Первоначально население представляло собой стрелецкий гарнизон.
+					'''
+					tat: '''XVII йөз шәһәрчекләре чагыштырмача кечкенә була. Шәһәр үзәгендә төрмә - койма белән әйләндереп алынган зур булмаган дүртпочмак яки түгәрәк формасындагы мәйданчык - урнаша. Ныгытма стеналарына, кайберләре астына капкалар ясалган, манаралар эшләнә. Төрмә эчендә гадәттә чиркәү, дәүләт приказ ызбасы, капкалар янында караул ызбасы, кайбер очракларда берничә йомышлы кешеләр йортлары, хәрби һәм азык-төлек запаслары чокырлары, амбарлар һәм ашлык келәтләре була.
+
+					Стенадан берничә метр ераклыкта чокырлар казыла. Алар артында, кайбер очракларда, казык читән белән чикләнгән бистәләр урнаша. Биредә йомышлы укчылар, казаклар, солдатлар, сөңгечеләр яши. Шәһәрләр арасына ныгытма линияләре сузыла: урынның рельефына карап чокырлар, засекалар, кыска баганалар (җиргә утыртылган агач баганалар рәте) утыртыла. 
+
+					**Тәтеш** шәһәре 1574-1578 елларда Идел буен күчмә халыклар һөҗүменнән саклау ныгытмасы буларак төзелә. Шәһәр берничә сак ныгытмасына ия була. XVII йөзнең уртасыннан Тәтешнең хәрби әһәмияте 1648 елда төзелгән Сембер шәһәренә күчерелә, ә Тәтеш засекасы урынында Сембер чиге барлыкка килә. 
+
+					**Ак яр** ныгытмасы 1652 елда Иделнең сул ярында, Чирмешән елгасы кушылган урыннан өстәрәк төзелә. Лаештан ныгытма куркынычсызлыгын тәэмин итүче казаклар һәм укчылар җибәрелә. Шәһәрдә балыкчылар патша өстәле һәм гаскәр ихтыяҗлары өчен балык китергән патша балык сарае урнаша. XVII йөз ахырына, Россия дәүләте чикләре киңәю нәтиҗәсендә, Ак Яр үзенең тактик әһәмиятен югалта, ләкин бүгенге көнгә кадәр торак пункт буларак яшәвен дәвам итә. 
+
+					**Зирекле** 1652 елда Кама арты засека линиясе структурасына кергән төрмә буларак төзелә. XVIII йөз ахырында ныгытма әһәмиятен югалта һәм зур авыл буларак үсеш ала. XIX йөз ахырында биредә күпсанлы кибетләр, поташ заводы урнаша, даими ярминкәләр уздырыла.
+
+					**Лаеш** 1557 елда Казаннан ерак булмаган Болгар авылы урынында күчмә кабиләләр һөҗүменә каршы тору өчен таяну пункты буларак барлыкка килә. Лаешның беренче елларында биредә укчылар, затинщиклар, тупчылар кебек хәрби кешеләр яши. Хәрби әһәмиятен югалтканнан соң зур һөнәрчеләр үзәгенә әверелә. 
+
+					**Тиинский** XVII йөз уртасында Кама арты засека линиясе төрмәсе буларак барлыкка килә һәм башта, биредә, 1654 елда Смоленск шәһәрендә әсирлеккә алынган поляк шляхтачылары яши. 
+					Яңа Чишмә 1652 елда Кама арты линиясе хәрби ныгытмасы буларак зур булмаган авыл урынында төзелә. Беренчеләрдән булып бирегә, башка ныгытмалардагы кебек, укчылар
+					һәм аларның гаиләләре күчеп килә. 
+
+					**Биләр** 1654 елда Идел Болгары башкаласы булган борынгы Биләр харәбәләреннән ерак булмаган ныгытма буларак төзелә. Үзенең хәрби әһәмиятен югалтканан соңда Казан губернасындагы иң зур торак пунктларның берсе булып калуын дәвам итә.
+
+					**Зәй** 1652 елда Кама арты линиясе төрмәсе буларак барлыкка килә. Үз вакытының иң көчле ныгытмаларының берсе санала. Халкының зур өлешен укчылар гарнизоны тәшкил итә. 
+					'''
+				}
+			}
+		]
+		images: [
+			{
+				path: 'city-1.webp'
+				label: {
+					name: {
+						eng: 'Tetyushi'
+						rus: 'Тетюши'
+						tat: 'Тәтеш'
+					}
+					text: {
+						eng: 'Copy by V. Laptev from the drawing by A. Olearius of 1696. 1954'
+						rus: 'Копия В.Л. Лаптева с рисунка А. Олеария 1696 г. 1954'
+						tat: 'А. Олеарийның 1696 елгы рәсеменнән В.Л. Лаптев ясаган күчермә. 1954'
+					}
+				}
+			}
+			{
+				path: 'city-2.webp'
+				label: {
+					name: {
+						eng: 'Fort on the Zasechnaya Cherta (Fortification Line)'
+						rus: 'Крепость-острог на Засечной черте'
+						tat: 'Засека сызыгы ныгытма-төрмәсе'
+					}
+					text: {
+						eng: 'Reconstruction by K. Nosov. 2013'
+						rus: 'Реконструкция К.С. Носова. 2013'
+						tat: 'К.С. Носов реконструкциясе. 2013'
+					}
+				}
+			}
+			{
+				path: 'city-3.webp'
+				label: {
+					name: {
+						eng: 'Kazan in 16th-18th centuries'
+						rus: 'Казань XVI-XVIII вв.'
+						tat: 'Казан шәһәре XVI-XVIII йөзләрдә'
+					}
+					text: {
+						eng: 'Map-scheme by S. Aidarov'
+						rus: 'Карта-схема С.С. Айдарова'
+						tat: 'С.С. Айдаров карта-схемасы'
+					}
+				}
+			}
+			{
+				path: 'city-4.webp'
+				label: {
+					name: {
+						eng: 'Kazan Kremlin in 1568 '
+						rus: 'Казанский Кремль в 1568 г.'
+						tat: 'Казан Кремле 1568 елда '
+					}
+					text: {
+						eng: 'Reconstruction by N. Kalinin'
+						rus: 'Реконструкция Н.Ф. Калинина'
+						tat: 'Н.Ф. Калинин реконструкциясе'
+					}
+				}
+			}
+			{
+				path: 'city-5.webp'
+				label: {
+					name: {
+						eng: 'Tatar Kazan'
+						rus: 'Казань татарская'
+						tat: 'Татар Казаны'
+					}
+					text: {
+						eng: 'Etching by A. Olearius. 1696'
+						rus: 'Офорт А. Олеария. 1696'
+						tat: 'А. Олеарий офорты. 1696'
+					}
+				}
+			}
+		]
+	}
+}

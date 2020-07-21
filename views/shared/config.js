@@ -1,0 +1,20 @@
+export const DURATION = {
+	FAST: 200,
+	FASTER: 100,
+	NORMAL: 300,
+	SLOW: 400,
+	SLOWER: 500
+}
+
+export const DELAY = DURATION
+export const RESET_DELAY = 180000
+export const ANCHOR_CONTENT_PADDING = 92
+export const MENU_ANIM_DURATION = DURATION.SLOW
+export const PAGE_ANIM_DURATION = DURATION.FASTER
+export const FLIP_TRANSITION_TIMEOUT = MENU_ANIM_DURATION + PAGE_ANIM_DURATION
+
+export const theme = {
+	color: {
+		title: '#575555'
+	}
+}
